@@ -1,0 +1,29 @@
+.gray {
+	   background: #C0C0C0;
+	   padding: 10px 0;
+}
+header {
+	     background: #FF80C0;
+	     padding: 10px 0;
+}
+img {width: 100%;
+   height: auto;}
+
+.navbar-toggle{ background: #C0C0C0;
+	            float: none;
+	            margin: auto;
+}
+.container{padding-bottom: -150px; }
+.icon-bar{background: #000000;}
+
+.slaid {padding-bottom: 40px; }
+
+.carousel-indicators { bottom: -40px;}
+
+.carousel-indicators li{background: #C0C0C0}
+
+.carousel-indicators .activ{background: #FF0000} 
+
+
+.proba div{background:#D1C2C2;
+border: 1px #161414 solid;}

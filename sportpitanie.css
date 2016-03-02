@@ -1,0 +1,164 @@
+body {background: url(images/fonsppit.jpg);}
+
+.container {width: 1521px;}
+
+.search-form .form-group {float: right !important;
+                          transition: all 0.35s, border-radius 0s;
+                          width: 32px;
+                          height: 32px;
+                          background-color: #fff;
+                          box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+                          border-radius: 25px;
+                          border: 1px solid #ccc;
+                          }
+
+.search-form .form-group input.form-control {padding-right: 20px;
+                                             border: 0 none;
+                                             background: transparent;
+                                             box-shadow: none;
+                                             display:block;
+                                             } 
+.search-form .form-group input.form-control:-webkit-input-placeholder{display: none;}
+.search-form .form-group input.form-control:-moz-placeholder {/* Firefox 18- */display: none;}
+.search-form .form-group input.form-control::-moz-placeholder {/* Firefox 19+ */display: none;}
+.search-form .form-group input.form-control:-ms-input-placeholder {display: none;}
+.search-form .form-group:hover,
+.search-form .form-group.hover {width: 100%;
+                                border-radius: 4px 25px 25px 4px;
+                                }
+.search-form .form-group span.form-control-feedback {
+                                                      position: absolute;
+                                                      top: -1px;
+                                                      right: -2px;
+                                                      z-index: 2;
+                                                      display: block;
+                                                      width: 34px;
+                                                      height: 34px;
+                                                      line-height: 34px;
+                                                      text-align: center;
+                                                      color: #3596e0;
+                                                      left: initial;
+                                                      font-size: 14px;
+                                                    }
+
+.fa:before {font-size: 20px;
+            color: #F48C47;
+            text-rendering: auto;
+            padding: 3px;
+            text-decoration: none;
+            }
+
+.fa-user-plus:before{color:#FFFFFF;}
+.fa-user:before{color:#FFFFFF}
+.fa-shopping-cart:before{color:#E66619}
+.fa-heart:before{color:#D86E5C}
+
+
+a{font-size:17px;
+   color: #E9B951;
+   text-decoration: none;
+  }
+
+.icons>a:hover{color: #E9B951;}
+
+#header-content {padding-top: 30px;}
+
+#logo {padding-top: 30px;}
+
+.search-form .form-group span.form-control-feedback {right: 14px;
+                                                     color: #060606;
+                                                    }
+    
+
+ 
+#carousel-example-generic {width: 200px;}
+ 
+.fa .fa-shopping-cart .price2{color:#CB5616;
+                              font-size: 30px;
+                              float: right;
+                              padding: 5px;
+                              text-decoration: none;}
+
+.price{margin: 0;
+       color: #F5590D; 
+       font-size: 18px;
+      }
+
+.text{width: 23px;
+      height: 23px;
+     }
+
+.nazva {font-size: 18px;
+        color: #E65E14;
+        }
+
+
+.baner>img{width: 100%;}
+ 
+
+ .nav{padding-top: 50px;
+      padding-bottom: 0px;
+      color: #817979}
+
+.nav2{padding-top: 0px;
+      padding-bottom: 0px;
+      color: #817979;
+      }
+
+.nav-pills>li>a{background:rgba(0,0,0,0.5);
+                 color: #FDF9F9;
+                font-size: 20px;
+                }
+.nav-pills>li>a:hover{color: #0A0909;}
+               
+.nav-pills>li.active>a {background: none;
+                        color: #000000;
+                        background-color: rgba(255, 255, 255, 0.95);
+                        padding-left: 22px;
+                       }
+
+
+.head{padding-bottom: 20px;}
+
+footer {background: rgba(0,0,0,0.5);
+       text-align: center;
+       height: 10%;
+       color:#FFFFFF;
+       padding: 30px;
+       margin-top:33px; 
+       }
+.niz>div{border-left: 1px  #FDFBFB solid;}
+
+.sppitanie{color:#FFFFFF;
+          text-shadow: 0 0 10px #fff, 
+          0 0 20px #fff, 
+          0 0 30px #fff, 
+          0 0 40px #ff00de, 
+          0 0 70px #ff00de, 
+          0 0 80px #ff00de, 
+          0 0 100px #ff00de, 
+          0 0 150px #ff00de;
+          padding: 20px;
+          font-size: 30px;
+         }
+
+.menu-footer>.well>img{width: 300px;
+                       height: 113px;
+                       } 
+
+.alert {color: #FFFFFF;
+        background-color: rgba(0, 0, 0, 0.58);
+        border-color: #898989; 
+        position: absolute;
+        top: 62px;
+       }
+
+.alert:hover{-webkit-transition: 1s 0s;
+             -o-transition: 1s 0s;
+             transition: 1s 0s;
+
+             -webkit-transform: translate(30px,0);
+             -ms-transform: translate(30px,0);
+             -o-transform: translate(30px,0);
+             transform: translate(30px,0);
+            }           

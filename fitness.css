@@ -1,0 +1,185 @@
+
+body {background: url(images/fon.gif);}
+
+header{background: #525252;
+       height: 25px;
+       }
+
+
+.container {width: 100%;}
+
+.adress {color: #070707;
+         border:1px #C8C7C7 solid;
+         text-align: center;
+         padding: 10px;
+         font-size: 25px;
+         }
+
+.icons{font-size: 20px;
+       text-decoration:none;
+       }
+
+.icons>a:hover{color:#0F0E0E;
+               text-decoration:none;
+               }
+
+
+
+
+a>.fa .fa-facebook-official,.fa-google-plus,.fa-twitter,
+ .fa-vk {text-decoration: none;
+	       font-size: 20px;
+        margin-left: 30px;
+        color: #FFFFFF;
+        text-decoration: none;
+        }
+
+.logotip {border-bottom:1px #C8C7C7 solid;}
+
+
+.center-block{display: block;
+              margin-left: auto;
+              margin-right: auto;
+              }
+
+.nav{padding-top: 50px;
+     padding-bottom: 0px;
+     color: #817979
+     }
+
+.nav2{padding-top: 0px;
+      padding-bottom: 0px;
+       color: #817979
+     }
+
+.nav-pills>li>a{background:rgba(0,0,0,0.5);
+                 color: #FDF9F9;
+                font-size: 20px;
+                }
+
+.nav-pills>li>a:hover{color: #0A0909;}
+               
+.nav-pills>li.active>a{background: none;
+                       color: #FDF9F9;
+                       }
+
+.nav-pills>li.active>a{background: none;
+                        color: #F38282;
+                      }
+section {background: #525252; 
+         width: 100%;
+         height: 30px;
+         position: relative;
+        }
+   
+
+.carousel-caption{top:30%;} 
+
+.carousel-caption h3 {font-family: 'Neucha', cursive;
+                      font-size: 40px;
+                      color: #FFFFFF;
+                      }
+
+.carousel-caption h1 {font-family: 'Neucha', cursive;
+                      font-size: 60px;
+                      color: #FFFFFF;
+                     }
+
+.carousel-indicators {bottom: -35px;
+                      left:50%;
+                     }
+
+.planet img{margin: auto;}
+
+.carousel-indicators .active {width: 50px;}
+
+.carousel-indicators li{ width: 50px;}
+
+.nav-pills>li.active>a{background: none;
+                       color: #FFFFFF;
+                      background:rgba(0,0,0, 0.8);
+                       }
+
+.nav-pills>li.active>a:hover{background: #FFFFFF;
+                             color:#0A0A0A;
+                             }
+
+.fa-facebook-official:before {content: "\f230";
+                              color: white;
+                              }
+
+.fa-facebook-official:before:hover{color:#050505;
+                                   text-decoration:none;
+                                   }
+
+.carousel-inner>.item{margin:0px;}
+
+
+.fon2{padding:0px;}
+
+
+.slide {position: relative;
+        width: 100%;
+       }
+
+.item>img{width: 100%;}
+
+.fon2 img{position: relative;
+          left: 45%;
+         }
+
+.fitgirl{position: absolute;
+         width: 350px;
+         height: 350px;
+         border-radius: 50%;
+         border: 2px #FFFFFF solid;
+         left: 58%;
+         top:;
+        }
+
+
+
+.jum {background:url(images/212_8.gif);}
+
+.jumbotron {background-color: rgba(255, 255, 255, 0);}
+
+.jumbotron>img {border: 2px #FFFFFF solid;
+                border-radius: 62%;
+                width: 350px;
+                height:350px;
+                float: right;
+                margin-top: -134px;
+               }
+
+.jumbotron h1 {color: #FFFFFF;} 
+
+.jumbotron p {color: #FFFFFF;
+             margin-top: 28px;
+             }
+
+hr {width: 57%;
+    margin-left:0px;}
+
+.btn-primary {color: #fff;
+              background-color: rgba(11, 13, 14, 0.63);
+              border-color: #FBFDFF;
+              }
+
+.form-control {width: 50%;}
+
+footer {background: rgba(0,0,0,0.7);
+       text-align: center;
+       height: 10%;
+       color:#FFFFFF;
+       padding: 30px;
+       }
+
+.niz>div{border-left: 1px  #FDFBFB solid;}
+
+.ch1{text-align: left;}
+
+.pitanie{margin-left:70px;}
+
+.container .jumbotron {padding-right: 5px;
+                      padding-left: 30px;
+                      }

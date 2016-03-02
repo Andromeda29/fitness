@@ -1,0 +1,71 @@
+header { background: #6DD9AD;
+         height: 100px;
+         color: #FFFFFF;}
+
+.logo {font-size: 50px;
+	   padding:20px; 
+}
+.nav {padding-top: 30px;}
+
+.nav-pills>li.active>a{ background-color: #339F33;}
+
+.nav-pills>li.active>a:hover{background-color:#FD6919}
+
+.nav>li>a {
+    color: white;
+    font-size: 20px;}
+
+.nav>li>a:hover{background-color:#FD6919;}
+
+.dropdown-menu>li>a {background:#FD6919;
+	                 border-radius: 2px solid #EE2F45;
+                     color:#FFFFFF;
+                     font-size: 20px;
+                      }
+
+.nav .open>a:hover{background-color:#FD6919; }
+li.dropdown:hover{background-color:#FD6919;}
+.dropdown-menu{ background-color:#FD6919; }
+
+.nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color: none;
+}
+.dropdown-menu>li>a:hover {background-color: #E96131;
+                            border-radius: 4px;
+                            color: #FFFFFF;}
+
+.carousel-caption h3{font-size: 50px;
+    margin-top: -60px;
+                     }
+
+.carousel-caption {
+    position: absolute;
+    bottom: 500px;
+}
+    
+.carousel-caption h3 {background: #F3B17B;
+                        text-align:center;
+                       width:300px;
+                       margin-left: 35%;
+}
+
+.carousel-indicators .active {
+    width: 40px;
+    height: 12px;
+    margin: 0;
+    background-color:#8D8A8A;
+}
+
+.carousel-indicators li { 
+    border-radius: none;
+    display: inline-block;
+    width: 40px;
+    height: 12px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background: #8D8A8A;
+   
+   
+}
